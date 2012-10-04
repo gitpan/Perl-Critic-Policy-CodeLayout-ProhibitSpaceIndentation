@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Readonly;
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 use Perl::Critic::Utils qw{ :booleans :severities };
 use base qw(Perl::Critic::Policy);

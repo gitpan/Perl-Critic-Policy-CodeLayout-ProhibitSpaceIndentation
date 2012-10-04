@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Perl-Critic-Policy-CodeLayout-ProhibitSpaceIndentation
-version:            1.00
+version:            1.01
 abstract:           Use tabs instead of spaces for indentation.
 author:
     - Infoxchange Australia <devs@infoxchange.net.au>
